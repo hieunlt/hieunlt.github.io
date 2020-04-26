@@ -1,0 +1,10 @@
+- layout: left
+  name: University of Economics and Law (UEL)
+  dates: 2015 - 2019
+  qualification: Bachelor of Finance and Banking
+  quote: >
+    Formerly VNU-HCM Faculty of Economics and promoted to university, UEL is a higher education institution as well as scientific research and technology transfer center with high quality in the fields of economics, law, and management in response to the demands of socio-economic development in the process of industrialization, modernization and global integration in Vietnam.
+  description: | # this will include new lines to allow paragraphs
+    During my time at UEL, I provided *technical analyses* as well as *data analyses* for many projects and researches which involved models such as *CAPM*, *Fama-French 3 Factors*, *univariate GARCH*, and the *multivariate GARCH (DCC-GARCH)* model as my final thesis.
+
+    I spent a lot of my time self-study basic <mark>Computer Science</mark>, <mark>Python</mark>, and <mark>R</mark> to embrace my tech hobby.

@@ -1,0 +1,70 @@
+# Site
+repository: sting1247/sting1247.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Nguyen Le Thien Hieu
+title: Data Specialist
+email: nguyenlethienhieu@gmail.com
+website: sting1247.github.io
+
+# Dark mode
+darkmode: false
+
+# Social links
+github_username:  sting1247
+linkedin_username: nguyenlethienhieu
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+    Hi, my name is Hieu and I'm a self-learned, technical oriented data enthusiast with minor experience in *fintech* and *social media industry*.
+    Experienced in data cleaning, raw data processing from API requests and server logs as well as writing scripts to automate repetitive tasks for internal usages.
+
+    I am most skilled in <mark>Python</mark>, intermediate proficiency with
+    <mark>PostgreSQL</mark>,
+    <mark>MySQL</mark>,
+    <mark>Git</mark>,
+    and minor exposure with <mark>MongoDB</mark>, <mark>Kotlin</mark>, <mark>TypeScript</mark>, and <mark>R</mark>.
+    I enjoy learning new things and coding as a hobby.
+
+    *"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."* - Linus Torvalds
+
+
+# Projects Section
+projects_title: Projects
+
+# Experience Section
+experience_title: Experience
+
+# Education Section
+educaton_title: Education
+
+# More Section
+more_title: More Than Just Coding
+more_content: | # this will include new lines to allow paragraphs
+    - Books: graphic novels (especially from DC), martial arts and chivalry novels (Gu Long is my favorite author), classic novels, science, history, theology, the art of war, mystic art, dark art, etc.
+
+    - Sci-fi stuff (ex: Star Wars).
+
+    - Music: jazz, country, classical, instrumental.
+
+    - Video game: Assassin's Creed, Diablo 3
+
+    - TV series: The Flash, Legends of Tomorrow, How I Met Your Mother, The Big Bang Theory, Lucifer, Constantine, American Gods, etc.
+
+    - Fan of spicy foods and cats.
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

@@ -1,0 +1,43 @@
+- layout: left
+  company: VNG Corporation
+  job_title: Data Analyst Intern - 360Live
+  dates: Aug 2019 - Jan 2020
+  quote: >
+    VNG Corporation (VNG) is a Vietnamese technology company, founded in 2004, specializing in digital content and online entertainment, social networking, and e-commerce.
+    VNG focuses on four main businesses, including online games, platforms, digital payments and cloud services.
+  description: | # this will include new lines to allow paragraphs
+    Product summary:
+      After over 2 years, 360Live wrote the dream of millions of dollars virtual gift business with live-stream. Our product successfully placed at 2nd of the Vietnamese market with 50k connected streamers served over 2M users.
+      360Live is proud of the only self-developed technologies by Vietnamese high-quality talents & professionals.
+
+
+    Responsibilities:
+    - Measure, report and monitor key performance indicators to ensure continuously improve performance of product and business.
+    - Work closely with Tech and Business teams in gathering and mining data, producing information analysis.
+    - Making reports, analyst reports based on requests from the direct manager or other departments.
+    - Translate data from operation activities into plain business languages for presentation.
+
+    Achievements:
+    - Design, develop and maintain the data analysis project and workflow from legacy codes.
+    - Utilize predictive modeling for the product's revenue forecast.
+    - Problem-solving, communication and coding skills greatly improved.
+    - Familiarity with basic data analysis and visualization.
+    - Knowledge and experience in advanced data analysis using <mark>SQL</mark>, <mark>Python</mark>, and <mark>R</mark>.
+
+- layout: left
+  company: MoneyTap Vietnam
+  job_title: Business Operations Intern - Data Analytics
+  dates: May 2019 - Jul 2020
+  quote: >
+    MoneyTap is a Fintech startup based in Bangalore, India. Launched in 2016 to the public, it is claimed to be India’s first company to provide an app-based personal credit line to customers.
+    Offered in partnership with various banks and NBFCs, it facilitates the provision of unsecured, short-term credit to users directly from their phone or desktop.
+  description: | # this will include new lines to allow paragraphs
+    Responsibilities:
+    - Data analysis, data visualization and daily report
+    - Track competitors on Google Play
+    - Extract data as requested
+    - Assist the operation team in day-to-day operations
+
+    Achievements:
+    - Create and manage a simple Excel-based CRM system
+    - Train replacement
