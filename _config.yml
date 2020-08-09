@@ -1,18 +1,18 @@
 # Site
-repository: sting1247/sting1247.github.io
+repository: hieunlt/hieunlt.github.io
 favicon: images/favicon.ico
 
 # Personal info
 name: Nguyen Le Thien Hieu
 title: Data Specialist
 email: nguyenlethienhieu@gmail.com
-website: sting1247.github.io
+website: hieunlt.github.io
 
 # Dark mode
 darkmode: false
 
 # Social links
-github_username:  sting1247
+github_username: hieunlt
 linkedin_username: nguyenlethienhieu
 
 # About Section

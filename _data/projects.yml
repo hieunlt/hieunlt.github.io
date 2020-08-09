@@ -1,8 +1,19 @@
 - layout: top-middle
-  name: The contagion effect on Asian emerging markets during the 2008 financial crisis
+  name: Dating Sites Swipe Bot
+  github: hieunlt/dating-sites-swipe-bot
+  quote: >
+    A simple bot that does all the boring swiping for you because who swipe manually nowaday? 
+  description: |
+    This project is forked from *aj-4/tinder-swipe-bot*. 
+    I extended the original *Tinder* bot to work on *OKCupid* and *Badoo* as well (other sites can be added by creating new subclasses of *Bot*). 
+    Originally this was just intended to be a way for me to learn the basics of <mark>Selenium</mark> 
+    but then I decided to redesign it using the basic principles of <mark>Object-Oriented Programming</mark>. 
+
+- layout: top-middle
+  name: The Contagion Effect On Asian Emerging Markets During The 2008 Financial Crisis
   quote: >
     Evidence of DCC-GARCH model
-  description: | # this will include new lines to allow paragraphs
+  description: |
     I started this project as a way to learn <mark>R</mark> and as my *final thesis*.
     I learned many skills through this and sharpened my knowledge of <mark>Statistics</mark> and <mark>Econometrics</mark>.
     Got me the consolation prize of the student scientific research competition *Eureka 2019*.
