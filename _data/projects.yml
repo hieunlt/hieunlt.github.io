@@ -5,7 +5,7 @@
     A simple bot that does all the boring swiping for you because who swipe manually nowaday? 
   description: |
     This project is forked from *aj-4/tinder-swipe-bot*. 
-    I extended the original *Tinder* bot to work on *OKCupid* and *Badoo* as well (other sites can be added by creating new subclasses of *Bot*). 
+    I extended the original *Tinder* bot to work on *OkCupid* and *Badoo* as well (other sites can be added by creating new subclasses of *Bot*). 
     Originally this was just intended to be a way for me to learn the basics of <mark>Selenium</mark> 
     but then I decided to redesign it using the basic principles of <mark>Object-Oriented Programming</mark>. 
 

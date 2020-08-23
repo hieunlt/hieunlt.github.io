@@ -18,8 +18,8 @@ linkedin_username: nguyenlethienhieu
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-    Hi, my name is Hieu and I'm a self-learned, technical oriented data enthusiast with minor experience in *fintech* and *social media industry*. Experienced in data cleaning, raw data processing from API requests and server logs as well as writing scripts to automate repetitive tasks for internal usages.
+about_content: |
+    My name is Hieu and I'm a self-learned, technical oriented data enthusiast with minor experience in *fintech* and *social media industry*. Experienced in data cleaning and data scraping as well as writing scripts to automate repetitive tasks for internal usages.
 
     I am most skilled in <mark>Python</mark>, intermediate proficiency with <mark>PostgreSQL</mark>, <mark>MySQL</mark>, <mark>Elasticsearch</mark>, <mark>Git</mark>, and minor exposure with <mark>MongoDB</mark>, <mark>Kotlin</mark>, and <mark>R</mark>. I enjoy learning new things and coding as a hobby.
 
@@ -37,7 +37,7 @@ educaton_title: Education
 
 # More Section
 more_title: More Than Just Coding
-more_content: | # this will include new lines to allow paragraphs
+more_content: |
     - Books: graphic novels (especially from DC), martial arts and chivalry novels (Gu Long is my favorite author), classic novels, science, history, theology, the art of war, mystic art, dark art, etc.
 
     - Sci-fi stuffs (ex: Star Wars).
