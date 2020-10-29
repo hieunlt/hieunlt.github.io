@@ -8,12 +8,15 @@
     We ensure brands their audiences with creative influencer-generated content that in turn affects real-world sales.
   description: |
     Responsibilities: 
-    - Build and maintain optimal data pipeline architecture and infrastructure to acquire, enrich, and analyze data to provide actionable insights into customer acquisition, operational efficiency, and other key business performance metrics.
+    - Build and maintain optimal data pipeline & architecture.
+    - Build infrastructures to acquire, enrich, and analyze data to provide actionable insights into customer acquisition, operational efficiency, and other key business performance metrics.
     - Develop data crawling systems to acquire data from social networks.
+    - Integrate machine learning/deep learning predictive models from the Data Science team into data pipelines.
+    - Implement basic/naive text-based detectors/classifiers.
     - Continuously improve the system: performance, availability, scalability, etc.
     - Transform and export data to Data Analysts, Data Science team for internal processes.
     - Generate reports based on requirements from the business side.
-    - Configure, deploy, and monitor the data pipelines with support from ITS/DevOps.
+    - Configure, deploy and monitor the data pipeline with support from ITS/DevOps
     
     Achievements: ***TBU***
 
