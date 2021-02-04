@@ -1,7 +1,7 @@
 - layout: left
   company: KromLab
   job_title: Data Engineer
-  dates: Apr 2020 - Present
+  dates: Mar 2020 - Feb 2020
   quote: >
     KromLab is the R&D entity of XOMAD, one of the oldest influencer marketing agencies in the business. 
     As a part of the XOMAD family, we have worked with Fortune 500 brands, including Unilever, L’Oréal, Nivea, Paul Mitchell, ShowTime, and more to develop effective influencer campaigns. 
@@ -18,11 +18,15 @@
     - Generate reports based on requirements from the business side.
     - Configure, deploy and monitor the data pipeline with support from ITS/DevOps
     
-    Achievements: ***TBU***
+    Achievements:
+    - Created an interface for applying asynchronous tasks with <mark>Celery</mark>.
+    - Took part in the system migration process to <mark>Kubernetes</mark> to reduce the company's cloud cost.
+    - Knowledge and experience of <mark>ORM</mark> and <mark>Elasticsearch</mark>.
+    - Improved coding skills and familiarity with <mark>Python</mark> to produce better code quality.
 
 - layout: left
   company: VNG Corporation
-  job_title: Data Analyst Intern - 360Live
+  job_title: Data Analyst Intern
   dates: Aug 2019 - Jan 2020
   quote: >
     VNG Corporation (VNG) is a Vietnamese technology company, founded in 2004, specializing in digital content and online entertainment, social networking, and e-commerce. 
@@ -44,22 +48,3 @@
     - Problem-solving, communication, and coding skills greatly improved.
     - Familiarity with basic data analysis and visualization using <mark>Pandas</mark>, <mark>Seaborn</mark>, and <mark>Plotly</mark>.
     - Knowledge and experience in advanced data analysis using <mark>SQL</mark>, <mark>Python</mark>, and <mark>R</mark>.
-
-- layout: left
-  company: MoneyTap Vietnam
-  job_title: Business Operations Intern - Data Analytics
-  dates: May 2019 - Jul 2019
-  quote: >
-    MoneyTap is a Fintech startup based in Bangalore, India. 
-    Launched in 2016 to the public, it is claimed to be India’s first company to provide an app-based personal credit line to customers. 
-    Offered in partnership with various banks and NBFCs, it facilitates the provision of unsecured, short-term credit to users directly from their phone or desktop.
-  description: |
-    Responsibilities:
-    - Data analysis, data visualization and daily report
-    - Track competitors on Google Play
-    - Extract data as requested
-    - Assist the operation team in day-to-day operations
-
-    Achievements:
-    - Create and manage a simple Excel-based CRM system
-    - Train replacement
