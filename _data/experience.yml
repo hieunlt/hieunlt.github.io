@@ -1,4 +1,24 @@
 - layout: left
+  company: Zalo
+  job_title: Data Specialist
+  dates: May 2021 - Present
+  quote: >
+    Rolled out in 2012, Zalo is the most popular mobile messaging app in Vietnam, thanks to its striking speed and stability commensurate with the local internet infrastructure.
+    With 52 million monthly active users, the app records over 1 billion messages, 50 million calling minutes, and 45 million pictures per day.
+    Besides its messaging function, Zalo has also boasted many other features, catering to different users' needs.
+  description: |
+    Product summary: *Bao Moi* is the most popular news aggregator in Vietnam, recording high traffic and keeping its readers abreast of news curated from hundreds of online newspapers.
+
+    Responsibilities:
+    - Using statistical methods to interpret data sets, paying particular attention to trends and patterns that could be valuable for diagnostic and predictive analytics efforts.
+    - Use data to create models that depict trends in user activities as a whole.
+    - Preparing reports for executive leadership that effectively communicate trends, patterns, and predictions using relevant data.
+    - Collaborating with other teams (Business, Engineer, Product, etc.) to identify opportunities for process modifications, recommend system improvements, and develop policies for data governance.
+    - Perform periodic user segmentation with the purpose of assisting product teams to design different experiences for different types of users, with an eye toward increasing engagement, satisfaction, renewal, and expansion.
+    
+    Achievements: **TBU**
+
+- layout: left
   company: KromLab
   job_title: Data Engineer
   dates: Mar 2020 - Feb 2021
@@ -33,8 +53,8 @@
     VNG focuses on four main businesses, including online games, platforms, digital payments and cloud services.
   description: |
     Product summary:
-    - After over two years, 360Live wrote the dream of millions of dollars virtual gift business with live-stream and proud of being the only platform with self-developed technologies by Vietnamese high-quality talents & professionals.
-    - Our product successfully ranked second place of the Vietnamese market with 50K connected streamers served over 2M users.
+    - After over two years, *360Live* wrote the dream of millions of dollars virtual gift business with live-stream and proud of being the only platform with self-developed technologies by Vietnamese high-quality talents & professionals.
+    - Our product successfully ranked second place in the Vietnamese market with 50 thousand connected streamers served over 2 million users.
 
     Responsibilities:
     - Measure, report, and monitor key performance indicators to ensure continuously improve performance of product and business.
@@ -43,8 +63,8 @@
     - Translate data from operation activities into plain business languages for presentation.
 
     Achievements:
-    - Design, develop, and maintain the data analysis project and workflow.
-    - Utilize predictive modeling for the product's revenue forecast.
+    - Designed, developed, and maintained the data analysis system and workflow with the capacity of analyzing approximately **6 million records** per day.
+    - Utilized predictive modeling for the product’s revenue forecast.
     - Problem-solving, communication, and coding skills greatly improved.
     - Familiarity with basic data analysis and visualization using <mark>Pandas</mark>, <mark>Seaborn</mark>, and <mark>Plotly</mark>.
     - Knowledge and experience in advanced data analysis using <mark>SQL</mark>, <mark>Python</mark>, and <mark>R</mark>.
