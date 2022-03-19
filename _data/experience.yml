@@ -7,8 +7,6 @@
     With 52 million monthly active users, the app records over 1 billion messages, 50 million calling minutes, and 45 million pictures per day.
     Besides its messaging function, Zalo has also boasted many other features, catering to different users' needs.
   description: |
-    Product summary: *Bao Moi* is the most popular news aggregator in Vietnam, recording high traffic and keeping its readers abreast of news curated from hundreds of online newspapers.
-
     Responsibilities:
     - Using statistical methods to interpret data sets, paying particular attention to trends and patterns that could be valuable for diagnostic and predictive analytics efforts.
     - Use data to create models that depict trends in user activities as a whole.
@@ -16,7 +14,11 @@
     - Collaborating with other teams (Business, Engineer, Product, etc.) to identify opportunities for process modifications, recommend system improvements, and develop policies for data governance.
     - Perform periodic user segmentation with the purpose of assisting product teams to design different experiences for different types of users, with an eye toward increasing engagement, satisfaction, renewal, and expansion.
     
-    Achievements: **TBU**
+    Achievements:
+    - Create & maintain a high-performance data API for internal communication using <mark>Go</mark>, <mark>Scala</mark>, <mark>MySQL</mark>, and <mark>Elasticsearch</mark>.
+    - Create & maintain Spark jobs to fetch data from internal Data Platforms and feed processed data to the corresponding entities.
+    - Knowledge and experience of data infrastructure, data engineering, and the <mark>Apache Spark</mark> ecosystem.
+    - Improved coding skills and familiarity with <mark>Go</mark> & <mark>Scala</mark> to produce better code quality and reliability.
 
 - layout: left
   company: KromLab
