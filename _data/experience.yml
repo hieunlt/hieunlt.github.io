@@ -1,6 +1,6 @@
 - layout: left
   company: Zalo
-  job_title: Data Specialist
+  job_title: Data Engineer
   dates: May 2021 - Present
   quote: >
     Rolled out in 2012, Zalo is the most popular mobile messaging app in Vietnam, thanks to its striking speed and stability commensurate with the local internet infrastructure.
@@ -9,6 +9,7 @@
   description: |
     Responsibilities:
     - Using statistical methods to interpret data sets, paying particular attention to trends and patterns that could be valuable for diagnostic and predictive analytics efforts.
+    - Build and maintain optimal data pipeline & architecture.
     - Use data to create models that depict trends in user activities as a whole.
     - Preparing reports for executive leadership that effectively communicate trends, patterns, and predictions using relevant data.
     - Collaborating with other teams (Business, Engineer, Product, etc.) to identify opportunities for process modifications, recommend system improvements, and develop policies for data governance.
