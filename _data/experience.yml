@@ -1,19 +1,19 @@
 - layout: left
   company: Zalo
   job_title: Data Engineer
-  dates: May 2021 - Present
+  dates: May 2021 - Jul 2022
   quote: >
     Rolled out in 2012, Zalo is the most popular mobile messaging app in Vietnam, thanks to its striking speed and stability commensurate with the local internet infrastructure.
     With 52 million monthly active users, the app records over 1 billion messages, 50 million calling minutes, and 45 million pictures per day.
     Besides its messaging function, Zalo has also boasted many other features, catering to different users' needs.
   description: |
     Responsibilities:
-    - Using statistical methods to interpret data sets, paying particular attention to trends and patterns that could be valuable for diagnostic and predictive analytics efforts.
+    - Using statistical methods to interpret data sets, and paying particular attention to trends and patterns could be valuable for diagnostic and predictive analytics efforts. 
     - Build and maintain optimal data pipeline & architecture.
-    - Use data to create models that depict trends in user activities as a whole.
-    - Preparing reports for executive leadership that effectively communicate trends, patterns, and predictions using relevant data.
-    - Collaborating with other teams (Business, Engineer, Product, etc.) to identify opportunities for process modifications, recommend system improvements, and develop policies for data governance.
-    - Perform periodic user segmentation with the purpose of assisting product teams to design different experiences for different types of users, with an eye toward increasing engagement, satisfaction, renewal, and expansion.
+    - Use data to create models that depict trends in user activities as a whole. 
+    - Preparing reports for executive leadership that effectively communicate trends, patterns, and predictions using relevant data. 
+    - Collaborating with other teams (Business, Engineer, Product, etc.) to identify opportunities for process modifications, recommend system improvements, and develop policies for data governance. 
+    - Perform periodic user segmentation with the purpose of assisting product teams in designing different experiences for different types of users, with an eye toward increasing engagement, satisfaction, renewal, and expansion.
     
     Achievements:
     - Create & maintain a high-performance data API for internal communication using <mark>Go</mark>, <mark>Scala</mark>, <mark>MySQL</mark>, and <mark>Elasticsearch</mark>.
@@ -31,14 +31,14 @@
     We ensure brands their audiences with creative influencer-generated content that in turn affects real-world sales.
   description: |
     Responsibilities: 
-    - Build and maintain optimal data pipeline & architecture.
-    - Build infrastructures to acquire, enrich, and analyze data to provide actionable insights into customer acquisition, operational efficiency, and other key business performance metrics.
-    - Develop data crawling systems to acquire data from social networks.
-    - Integrate machine learning/deep learning predictive models from the Data Science team into data pipelines.
-    - Implement basic/naive text-based detectors/classifiers.
-    - Continuously improve the system: performance, availability, scalability, etc.
-    - Transform and export data to Data Analysts, Data Science team for internal processes.
-    - Generate reports based on requirements from the business side.
+    - Build and maintain optimal data pipeline & architecture. 
+    - Build infrastructures to acquire, enrich, and analyze data to provide actionable insights into customer acquisition, operational efficiency, and other key business performance metrics. 
+    - Develop data crawling systems to acquire data from social networks. 
+    - Integrate machine learning/deep learning predictive models from the Data Science team into data pipelines. 
+    - Implement basic/naive text-based detectors/classifiers. 
+    - Continuously improve the system: performance, availability, scalability, etc. 
+    - Transform and export data to Data Analysts, Data Science team for internal processes. 
+    - Generate reports based on requirements from the business side. 
     - Configure, deploy and monitor the data pipeline with support from ITS/DevOps
     
     Achievements:
@@ -56,10 +56,10 @@
     VNG focuses on four main businesses, including online games, platforms, digital payments and cloud services.
   description: |
     Responsibilities:
-    - Measure, report, and monitor key performance indicators to ensure continuously improve performance of product and business.
-    - Work closely with Tech and Business teams in gathering and mining data, producing information analysis.
-    - Making reports & analyze based on requests from the direct manager or other departments.
-    - Translate data from operation activities into plain business languages for presentation.
+    - Measure, report, and monitor key performance indicators to ensure continuously improved performance of products and business. 
+    - Work closely with Tech and Business teams in gathering and mining data, and producing information analysis. 
+    - Making reports & analyses based on requests from the direct manager or other departments. 
+    - Translate data from operation activities into plain business languages for presentation. 
 
     Achievements:
     - Designed, developed, and maintained the data analysis system and workflow with the capacity of analyzing approximately **6 million records** per day.
