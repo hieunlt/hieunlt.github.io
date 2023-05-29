@@ -1,13 +1,24 @@
 - layout: top-middle
+  name: Random Wiki
+  github: hieunlt/random-wiki
+  quote: >
+    A random wiki a day makes an erudite mind someday.
+  description:
+    Wikipedia, the largest and most-read reference work in history, has an API that provides cacheable and straightforward access to Wikimedia content and data, in machine-readable formats.
+    I utilized this API to create a simple TUI client that fetches a random Wikipedia article summary along with the link to the full content should it interest the user.
+    This project is written in <mark>Rust</mark> using the <mark>cursive</mark> library.
+  
+
+- layout: top-middle
   name: Dating Sites Swipe Bot
   github: hieunlt/dating-sites-swipe-bot
   quote: >
-    A simple bot that does all the boring swiping for you because who swipe manually nowaday? 
+    A simple bot that does all the boring swiping for you because who swipe manually nowaday?
   description: |
     This project is forked from *aj-4/tinder-swipe-bot*. 
     I extended the original *Tinder* bot to work on *OkCupid* and *Badoo* as well (other sites can be added by creating new subclasses of *Bot*). 
     Originally this was just intended to be a way for me to learn the basics of <mark>Selenium</mark> 
-    but then I decided to redesign it using the basic principles of <mark>Object-Oriented Programming</mark>. 
+    but then I decided to redesign it using the basic principles of <mark>Object-Oriented Programming</mark>.
 
 - layout: top-middle
   name: The Contagion Effect On Asian Emerging Markets During The 2008 Financial Crisis
